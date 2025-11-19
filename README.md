@@ -10,10 +10,14 @@ FFGO triggers I2V models ability to fuse any objects without modifying the model
 - Training data details
 
 ### Setup
-- Instruction to setup
+- Create Environment
 ```
 conda create -n ffgo python=3.11
+conda activate ffgo
+```
 
+- Clone Repository and Setup
+```
 git clone https://github.com/zli12321/FFGO-Video-Customization.git
 cd FFGO-Video-Customization
 bash setup.sh
