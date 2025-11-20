@@ -7,7 +7,7 @@
 
 
 
-![teaser.gif](./asset/teaser.gif)
+![teaser.gif](./asset/git.gif)
 
 
 **🤗 Lora Adapters on Huggingface:**  
