@@ -14,8 +14,8 @@
 - [FFGO-Lora-Adapter](https://huggingface.co/Video-Customization/FFGO-Lora-Adapter)
 
 
-#### Coming
-- Training data details
+#### Training Data Sample
+- Check the ```/Data/train/``` folder
 
 ### Setup
 - Create Environment
