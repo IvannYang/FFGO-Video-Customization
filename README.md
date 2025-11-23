@@ -11,6 +11,7 @@
 
 
 ### Coming soon
+- Adding ComfyUI workflow support for using our trained LoRAs.
 - TODOs: train and release smaller model sizes - Hunyuan 1.5 8B or Wan2.2 5B
 
 **🤗 Lora Adapters on Huggingface:**  
