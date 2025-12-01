@@ -13,7 +13,7 @@
 
 
 ### Coming soon
-- Adding ComfyUI workflow support for using our trained LoRAs.
+- Adding our Official ComfyUI workflow support for using our trained LoRAs, with all parameters setup aligned with our inference code.
 - TODOs: Releasing LoRAs for smaller-size base models - Hunyuan 1.5 8B or Wan2.2 5B
 
 **🤗 Lora Adapters on Huggingface:**  
